@@ -54,5 +54,4 @@ export const rightSide = styled.div`
         color: #ffe400;
     }
 
-
 `

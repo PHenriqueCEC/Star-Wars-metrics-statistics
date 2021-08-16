@@ -15,7 +15,7 @@ function Header() {
       <img src={logo} alt="Logotipo" />
 
       <S.rightSide>
-        <a href="#">HOME</a>
+        <Link to="/">HOME</Link>
           <span className="divider" />
         <a href="#">PEOPLE</a>
           <span className="divider" />

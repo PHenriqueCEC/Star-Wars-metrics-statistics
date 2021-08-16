@@ -33,6 +33,7 @@ function Home() {
 
   }, [name, index])
 
+  
   return (
     <S.container>
 

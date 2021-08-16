@@ -4,7 +4,7 @@ export const container = styled.div`
     
     background: #1c1c19;
     width: 100%;
-    height: 200vh;
+    height: 100vh;
     padding: 30px;
     text-align: center;
 

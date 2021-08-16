@@ -11,7 +11,7 @@ function Home() {
 
   const [metric, setMetric] = useState({});
   const [index, setIndex] = useState(1);
-  const [fetching, setFetching] = useState(false);
+  const [fetching, setFetching] = useState(false); //A ideia aqui é exibir uma mensagem de "carregando..."
   const [name, setName] = useState("");
 
   async function getNameAndIndex(name, index) {

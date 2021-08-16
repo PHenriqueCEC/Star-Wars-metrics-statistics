@@ -21,8 +21,8 @@ To search for metrics just type, for example planets/1. With this entry we will 
 
 ## Languages and libraries used:
 
-• <img src = 'https://badges.aleen42.com/src/javascript.svg'> 
-•  <img alt = 'react' src = "https://badges.aleen42.com/src/react.svg">
+* <img src = 'https://badges.aleen42.com/src/javascript.svg'> 
+*  <img alt = 'react' src = "https://badges.aleen42.com/src/react.svg">
 
 ## How to install the project and run it:
 **Make sure you have GIT installed**
